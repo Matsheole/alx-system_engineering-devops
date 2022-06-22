@@ -1,2 +1,4 @@
 #!/bin/bash
 rm /tmp/my_first_directory/betty
+[master f01cc1a] Task 8
+ 1 file changed, 3 deletions(-)
